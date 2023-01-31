@@ -19,7 +19,7 @@ artist_1 = Artist('Scarlxrd')
 
 
 # __________ ALBUM
-album_1 = Album('Rxse', 'Rap', 'Scarlxrd', artist_1)
+album_1 = Album('Rxse', 'Rap', artist_1)
 album_repo.save(album_1)
 
 pdb.set_trace()
